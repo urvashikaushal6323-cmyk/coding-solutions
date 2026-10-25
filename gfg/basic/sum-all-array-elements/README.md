@@ -27,7 +27,7 @@ Explanation: 1 + 3 + 3 = 7.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-25T15:50:53.239Z  
+**Submitted:** 2026-10-25T15:51:02.207Z  
 
 ```java
 class Solution {
